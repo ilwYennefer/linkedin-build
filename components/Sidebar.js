@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import { Avatar } from "@material-ui/core";
 import { useAuthState } from "react-firebase-hooks/auth";
 import { auth } from "../firebase";
